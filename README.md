@@ -4,3 +4,4 @@ This homework assigment was based around building a password generator from very
 
 Refrence image below:
 
+<img width="980" alt="Password Generator" src="https://user-images.githubusercontent.com/76545687/125149495-f9ab4c00-e0fe-11eb-812e-fbeedfb125a0.png">
