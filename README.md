@@ -3,7 +3,7 @@
 This homework assigment was based around building a password generator from very little Javascript given to us. The user would input in variables and they would have to fullfil certain requirements for it to work. 
 
 # Deployed App:
-https://haneennasereddin.github.io/portfolio/
+https://haneennasereddin.github.io/passwordGenerator/
 
 # Refrence image below:
 
